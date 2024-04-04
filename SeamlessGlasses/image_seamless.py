@@ -20,7 +20,7 @@ from io import BytesIO
 def send_to_vlm_api(image_file, text_input):
     # Initialize the Replicate client
     replicate_client = replicate.Client("r8_4zP7jhBoAKiMIk7SMDLJ161WHUTVYdZ2jQ7u0")
-
+    
     # Open the image file
     with Image.open(image_file) as image:
         # Create a BytesIO object from the image
@@ -31,7 +31,7 @@ def send_to_vlm_api(image_file, text_input):
         # Define the input data for the CogVLM model
         input = {
             "image": image_bytes,
-            "query":  question
+            "query": "Give a straight answer , guess if you have to but never say i cannot say exactly" + question
         }
 
         # Run the CogVLM model with the provided input
