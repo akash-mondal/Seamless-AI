@@ -11,8 +11,8 @@ The repository is organized into the following directories:
 - **LID**: Contains the implementation of Language Identification (LID) for both text and speech inputs, leveraging the SpeechBrain toolkit.
 - **Models Used**: Provides information about the pre-trained models utilized in the project.
 - **Notebook-Recipes**: Includes Jupyter Notebooks demonstrating the usage of Bhashini pipelines and Seamless AI pipelines.
-- **SeamlessGlasses**: This directory houses the core implementation of Seamless AI pipelines, including image/video understanding, text processing, and speech recognition/synthesis.
-- **Stella**: Contains the source code for the flagship demo "Stella," a multilingual chatbot showcasing Seamless AI's capabilities.
+- **SeamlessGlasses**: This directory houses the core implementation of our product offering Seamless Glasses, Concept AR Smart Glasses with Seamless AI's pipelines.
+- **Stella**: Contains the source code for the  demo chatbot "Stella," a multilingual chatbot showcasing Seamless AI's capabilities.
 
 ## Technologies Used
 
@@ -21,6 +21,7 @@ Seamless AI is built upon a robust ensemble of state-of-the-art open-source mode
 - **Natural Language Processing (NLP) Models**:
   - Mixtral 8x7B: For text comprehension and generation.
   - Bhashini Suite: Provides automatic speech recognition (ASR), text-to-speech (TTS), and machine translation (NMT) capabilities for Indian languages.
+  - Whisper Large V2 : Backup ASR 
 
 - **Multimodal AI Models**:
   - FireLLaVA 13B: Combines language understanding and computer vision for multimodal processing.
@@ -46,14 +47,7 @@ To set up the project locally, follow these steps:
 git clone https://github.com/your-username/seamless-ai.git
 ```
 
-2. Install the required dependencies:
-
-```bash
-cd seamless-ai
-pip install -r requirements.txt
-```
-
-3. Follow the instructions in the respective subdirectories (`LID`, `Notebook-Recipes`, `SeamlessGlasses`, `Stella`) to run the desired components or demos.
+3. Follow the instructions (readme.md) in the respective subdirectories (`LID`, `Notebook-Recipes`, `SeamlessGlasses`, `Stella`) to run the desired components or demos.
 
 ## Contributing
 
@@ -65,4 +59,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-Seamless AI was developed by Team UNDERGOD, consisting of Akash Mondal and Shrestha Singh, during the SAMSUNG PRISM GEN AI HACKATHON. We would like to express our gratitude to Samsung for organizing this event and providing us with the opportunity to showcase our skills and innovation.
+Seamless AI was developed by Team UNDERGOD, during the SAMSUNG PRISM GEN AI HACKATHON. We would like to express our gratitude to Samsung for organizing this event and providing us with the opportunity to showcase our skills and innovation.
