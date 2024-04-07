@@ -1,6 +1,7 @@
-
-
 # Seamless AI
+
+![Untitled video - Made with Clipchamp](https://github.com/akash-mondal/Seamless-AI/assets/96812236/a428d118-50de-4b16-b0be-75ae7c9d3c83)
+
 
 Seamless AI is a cutting-edge AI suite that combines state-of-the-art natural language processing, computer vision, and multimodal capabilities to provide a unified and intuitive experience for users across various input modes and languages. This revolutionary project supports 11 widely spoken Indian languages, including low-resource languages, making it accessible to a diverse global audience.
 
