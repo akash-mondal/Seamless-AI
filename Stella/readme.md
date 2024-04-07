@@ -1,6 +1,4 @@
-Sure, here's the entire content in markdown format:
 
-```markdown
 # Stella
 
 Stella is a conversational AI assistant that provides accurate and detailed answers to users' queries in various languages, including English, Hindi, Bengali, Tamil, Marathi, Gujarati, Punjabi, Urdu, Telugu, Kannada, and Malayalam. It leverages the power of multimodal AI to generate textual and visual responses based on the user's input.
