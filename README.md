@@ -6,6 +6,7 @@
 
 Seamless AI is a cutting-edge AI suite that combines state-of-the-art natural language processing, computer vision, and multimodal capabilities to provide a unified and intuitive experience for users across various input modes and languages. This revolutionary project supports 11 widely spoken Indian languages, including low-resource languages, making it accessible to a diverse global audience.
 
+</div>
 ## Repository Structure
 
 The repository is organized into the following directories:
@@ -62,5 +63,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 Seamless AI was developed by Team UNDERGOD, during the SAMSUNG PRISM GEN AI HACKATHON. We would like to express our gratitude to Samsung for organizing this event and providing us with the opportunity to showcase our skills and innovation.
-
-</div>
