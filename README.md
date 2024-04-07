@@ -4,7 +4,7 @@
 
 ![](https://github.com/akash-mondal/Seamless-AI/blob/main/GIF.gif)
 
-Seamless AI is a cutting-edge AI suite that combines state-of-the-art natural language processing, computer vision, and multimodal capabilities to provide a unified and intuitive experience for users across various input modes and languages. This revolutionary project supports 11 widely spoken Indian languages, including low-resource languages, making it accessible to a diverse global audience.
+Seamless AI is a cutting-edge AI suite that combines state-of-the-art natural language processing, computer vision, and multimodal capabilities to provide a unified and intuitive experience for users across various input modes and languages. This revolutionary project supports 11 widely spoken Indian languages, including low-resource languages, making it accessible to a diverse Indian audience.
 
 </div>
 
